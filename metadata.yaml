@@ -1,0 +1,43 @@
+_repo: Field-Mice-as-Farm-and-Orchard-PestsFarmers-Bulletin-670_42718
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lantz, David E. (David Ernest)
+    aliases:
+    - Lantz, D.
+    - Lantz, David
+    - Lantz, D. E. (David Ernest)
+    birthdate: 1855
+    deathdate: 1918
+    gutenberg_agent_id: '37739'
+    url: http://www.gutenberg.org/2009/agents/37739
+description: '"Every year orchards and farm crops in many parts of the United States
+  are injured seriously by meadow mice and pine mice. The damage will be even greater
+  next winter unless prompt measures are taken as suggested in the following pages.
+  Among the sections recently reporting damage from these pests are parts of Arizona,
+  Montana, southern Ohio, Pennsylvania, Virginia, and West Virginia. In a single county
+  of Virginia, apple growers report that during the winter of 1916-17 trees valued
+  at $100,000 were destroyed by pine mice. Much of the loss is due to the shortsighted
+  policy of destroying snakes, weasels, hawks, owls, and other natural enemies of
+  mice... Various phases of controlling the ravages of meadow mice and pine mice are
+  dealt with in this bulletin"--P.[2]'
+gutenberg_issued: '2013-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42718'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: United States. Dept. of Agriculture. Farmers' bulletin no. 670
+subjects:
+- !lcsh 'Agricultural pests'
+- !lcsh 'Fruit -- Diseases and pests'
+- !lcc 'SB'
+- !lcsh 'Microtus -- Control'
+- !lcsh 'Pitymys -- Control'
+title: Field Mice as Farm and Orchard Pests
+url: http://www.gutenberg.org/ebooks/42718
